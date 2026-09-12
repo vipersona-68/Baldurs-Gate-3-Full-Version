@@ -244,3 +244,6 @@ This repository serves as the official landing page for Baldur's Gate 3. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Baldur's Gate 3 today!**
+
+---
+**Last updated:** 2026-09-12 16:50:15 UTC
