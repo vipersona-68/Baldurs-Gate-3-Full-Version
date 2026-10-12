@@ -246,4 +246,4 @@ This repository serves as the official landing page for Baldur's Gate 3. The sof
 **Get the most recent version of Baldur's Gate 3 today!**
 
 ---
-**Last updated:** 2026-10-12 07:04:13 UTC
+**Last updated:** 2026-10-12 17:32:08 UTC
